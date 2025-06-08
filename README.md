@@ -78,7 +78,7 @@ docker start
 Ou automatiser avec crontab pour exécuter toutes les 3 minutes :
 
 ```bash
-*/3 * * * * /chemin/vers/script.sh
+*/3 * * * * /chemin/vers/scriptV2.sh
 ```
 
 ---
@@ -87,13 +87,15 @@ Ou automatiser avec crontab pour exécuter toutes les 3 minutes :
 
 - **phpMyAdmin** : `http://localhost/phpmyadmin`
 - **Grafana** : `http://localhost:3000`
-- **Login admin** : `admin / passroot`
+- **Login admin** : `mzerrouki / passroot`
 
 ---
 
 ## ✒️ Auteurs
 
 - Mehdi Zerrouki - IUT de Blagnac - BUT1 RT
+- Rayan Mezouni - IUT de Blagnac - BUT1 RT
+- Thomas Fuduric - IUT de Blagnac - BUT1 RT
 
 ---
 
